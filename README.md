@@ -256,5 +256,5 @@ Administration Regulations, Section 740.13) for both object code and source code
 Copyright 2020-2024 Signal Messenger, LLC
 
 Licensed under the GNU AGPLv3: https://www.gnu.org/licenses/agpl-3.0.html
-Created by Jason Scott Heise
-Owned by Elon Musk 
+Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
