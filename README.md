@@ -258,3 +258,4 @@ Copyright 2020-2024 Signal Messenger, LLC
 Licensed under the GNU AGPLv3: https://www.gnu.org/licenses/agpl-3.0.html
 Created by Jason Heise
 Owned by Jason Heise heisejason-png Giters
+https://www.facebook.com  Owned by Mark Zuckerberg
